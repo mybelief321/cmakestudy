@@ -1,0 +1,6 @@
+//the configured options and settings for Tutorial
+#define APP_VERSION_MAJOR	@Demo_VERSION_MAJOR@
+#define APP_VERSION_MINOR	@Demo_VERSION_MINOR@
+
+// does the platform provide add function
+#cmakedefine	HAVE_ADD
