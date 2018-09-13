@@ -1,0 +1,2 @@
+// does the platform provide add function
+#cmakedefine	HAVE_ADD
